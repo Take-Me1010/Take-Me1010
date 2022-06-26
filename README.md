@@ -5,14 +5,17 @@
 </div>
 
 私は、大学院で統計的機械学習に基づく、神経システムの推定をテーマとして研究しています。
+
 My graduate research focuses on estimation of neural systems based on statistical machine learning.
 
 私の趣味は、主にVSCodeの拡張機能開発とQiitaで記事を執筆することです。
+
 My hobbies are mainly VSCode extension development and writing articles on Qiita.
 
 Qiita → [take_meのマイページ](https://qiita.com/take_me)
 
 次のカードが示す通りですが、Pythonを中心に、TypeScriptをよく使っています。
+
 I use Python mostly and TypeScript often as the following card shows.
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Take-Me1010&layout=compact">
@@ -65,11 +68,13 @@ I use Python mostly and TypeScript often as the following card shows.
 </div>
 
 **VScodeからファイルを色んなアプリで開くための拡張機能**
+
 **Open your file with your favorite application.**
 
 [![fileOpener Card](https://github-readme-stats.vercel.app/api/pin/?username=Take-Me1010&repo=fileOpener)](https://github.com/Take-Me1010/fileOpener)
 
 類似した他にも拡張機能はいくつかありますが、この拡張機能は、他のものと比較して設定の柔軟性が非常に高いです。コマンドラインで開くことができるアプリケーションなら何でも対応できるという点がウリです。
+
 There are several other extensions that are similar, but this one is much more flexible in its configuration than the others. The advantage is that it can handle any application that can be opened on the command line.
 
 ### [pykv-snippets](https://github.com/Take-Me1010/pykv-snippets)
@@ -87,15 +92,22 @@ There are several other extensions that are similar, but this one is much more f
 - The others in python are keyword arguments for Widget, Animation, bind.
 
 2万回以上インストールされた、Kivyというフレームワーク用のスニペットを提供する拡張機能です。
+
 An extension that has been installed over 20,000 times and provides snippets for a GUI framework called Kivy.
 
+
 [Kivy](https://kivy.org/#home)はPythonでGUIを作成するフレームワークで、クロスプラットフォームな開発が可能です。
+
 Kivy is a framework for creating GUI in Python, allowing cross-platform development.
 
+
 Kv-languageという言語で記述することもでき、HTML, CSSライクな開発体験も提供する、非常に面白いフレームワークです。
+
 It is a very interesting framework that can also be written in the Kv-language and provides an HTML, CSS-like development experience.
 
+
 開発当時は2020年で、Kivy用の拡張機能も2つしかなかったため、需要を獲得することができたと考えられます。
+
 At the time of development, it was 2020 and there were only two extensions for Kivy, which could have captured demand.
 
 ### [Deap-supporter](https://github.com/Take-Me1010/Deap-supporter)
@@ -110,6 +122,7 @@ At the time of development, it was 2020 and there were only two extensions for K
 An useful extension when you use [Deap](https://github.com/deap/deap), which is a framework for Evolutionary Algorithm.
 
 [Deap](https://github.com/deap/deap)は進化計算用のフレームワークです。Deapは柔軟な記述を可能にする反面、コーディング時に補完が効かないという問題があります。そこでこの拡張機能は、補完を有効にすることを可能にすることをコンセプトに開発を行いました。
+
 Deap is a framework for evolutionary computation. while Deap allows for flexible writing, it has the problem that completion does not work when coding. This extension was developed based on the concept of enabling completion.
 
 
