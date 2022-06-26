@@ -143,6 +143,6 @@ matplotlibで使うことができる色の名前をコマンドラインで表�
 
 ![](https://camo.githubusercontent.com/422d818a8935cff52567176df329a2e1d272c23c7272ab173e3c44a3eb320bb9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d68747470732533412532462532466d6174706c6f746c69622e6f7267253246322e312e312532465f696d61676573253246737068785f676c725f6e616d65645f636f6c6f72735f3030312e706e6726663d31266e6f66623d31)
 
-プルリクは主に[implement color name search #1](https://github.com/AstroBarker/mplcolors/pull/1/commits/8ac8dbf97924c3c6bd5c84f5787ae3a47dbdf461)で、色の名前の検索機能を実装したものをプルリクし、コミットされました。
-紹介したQiitaの記事: [「matplotlib 色 一覧」で検索するのはもう止めよう](https://qiita.com/take_me/items/481e248bf56aca56b1ee)ではかなりの反響を頂きました。
+プルリクは主に[implement color name search #1](https://github.com/AstroBarker/mplcolors/pull/1/commits/8ac8dbf97924c3c6bd5c84f5787ae3a47dbdf461)で、色の名前の検索機能を実装したものをプルリクし、マージされました。
+mplcolors紹介したQiitaの記事: [「matplotlib 色 一覧」で検索するのはもう止めよう](https://qiita.com/take_me/items/481e248bf56aca56b1ee)ではかなりの反響を頂きました。
 
