@@ -21,6 +21,9 @@ I use Python mostly and TypeScript often as the following card shows.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Take-Me1010&layout=compact">
 </div>
 
+Pythonは4年程書いており、TypeScriptは3年ほど書いています。
+Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-software.com/pythonista/)というiOSのアプリで学びながらuiモジュールという専用モジュールでアプリケーション開発をしました。
+
 ## 履歴
 
 ### 学歴
