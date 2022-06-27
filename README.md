@@ -146,3 +146,12 @@ matplotlibで使うことができる色の名前をコマンドラインで表�
 プルリクは主に[implement color name search #1](https://github.com/AstroBarker/mplcolors/pull/1/commits/8ac8dbf97924c3c6bd5c84f5787ae3a47dbdf461)で、色の名前の検索機能を実装したものをプルリクし、コミットされました。
 紹介したQiitaの記事: [「matplotlib 色 一覧」で検索するのはもう止めよう](https://qiita.com/take_me/items/481e248bf56aca56b1ee)ではかなりの反響を頂きました。
 
+
+### [kivy_graphWriter](https://github.com/Take-Me1010/kivy_graphWriter)
+
+[![kivy_graphWriter Card](https://github-readme-stats.vercel.app/api/pin/?username=Take-Me1010&repo=kivy_graphWriter)](https://github.com/Take-Me1010/kivy_graphWriter)
+
+![](https://github.com/Take-Me1010/kivy_graphWriter/raw/main/data/image/demo/0918-function-demo.gif)
+
+GUIフレームワークであるkivyの学習をしながら作成したアプリケーションです。
+変数代入・コメント・特殊コメントなどを実装した数式のプロットと、CSVファイルを読み込んでプロットすることができます。
