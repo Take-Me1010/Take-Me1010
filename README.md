@@ -36,29 +36,30 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 
 ### アルバイト・インターン経験
 
-- [学伸ゼミ](https://gakushinzemi.com/)
-  - 2018/4 ~ 現在も在籍
-  - 高校個別・中学個別・中学集団授業において、講師業務を担当。教科は数学・英語を中心に化学や物理などを生徒に応じて対応。
-  - 幅広い学年の生徒との交流を通じて、学年の雰囲気や個性に合わせた指導方法を研究・追求。目標に合わせた指導方法の検討などから、計画的な物事の進め方を学びました。
-- [株式会社創造学園](https://www.sozogakuen.co.jp/)
-  - 2018/12 ~ 現在も在籍
-  - 高校個別において、個別専任講師業務を担当。教科は数学・英語・物理・化学。
-  - 担任制であるため、担当生徒の個性・成績の立ち位置の把握、志望校へ向けた小目標の策定などがより一層重要なものであり、授業においても当日の体調など次第で、どのような説明をすれば理解してもらえるかなどをリアルタイムに検討しながら進めるといった技術が求められました。いくつかの書籍を参考にして、わかりやすい説明の仕方を自分も学びながら授業を改善し続けました。その結果、生徒が第一志望に合格することができ、その時の喜びは何にも代えがたいものであると思います。
-- [スキルアップAI株式会社](https://www.skillupai.com/)
+#### [スキルアップAI株式会社](https://www.skillupai.com/)
   - 2022/5 ~ 現在も在籍
   - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当しています。
 
+#### [株式会社創造学園](https://www.sozogakuen.co.jp/)
+  - 2018/12 ~ 現在も在籍
+  - 高校個別において、講師業務を担当。教科は数学・英語・物理・化学。
+
+担任制であるため、担当生徒の個性・成績の把握、志望校へ向けた小目標の策定などがより重要なものになります。
+授業においても当日の体調など次第で、どのような説明をすれば理解してもらえるかなどをリアルタイムに検討しながら進めるといった技術が求められました。
+いくつかの書籍を参考にして、わかりやすい説明の仕方を自分も学びながら授業を改善し続けました。その結果、生徒が第一志望に合格でき、その時の喜びは何にも代えがたいものでした。
+
+#### [学伸ゼミ](https://gakushinzemi.com/)
+- 2018/4 ~ 現在も在籍
+- 高校個別・中学個別・中学集団授業において、講師業務を担当。教科は数学・英語を中心に化学や物理などを生徒に応じて対応。
+
+幅広い学年の生徒との交流を通じて、学年の雰囲気や個性に合わせた指導方法を研究・追求。目標に合わせた指導方法の検討などから、計画的な物事の進め方を学びました。
+
 ## 資格
 
-### TOEIC
-
-| 試験日     | 点数 |
-| ---------- | ---- |
-| 2021/02/28 | 830  |
-
-### ICTプロフィシエンシー検定試験　準２級
-
-2017年 11月取得
+| 資格                                  | 取得日     |
+| ------------------------------------- | ---------- |
+| TOEIC 830点                           | 2021/02/28 |
+| ICTプロフィシエンシー検定試験　準２級 | 2017/11    |
 
 ## 開発したVSCodeの拡張機能
 (VSCode extensions I have been developing)
@@ -104,12 +105,12 @@ An extension that has been installed over 20,000 times and provides snippets for
 Kivy is a framework for creating GUI in Python, allowing cross-platform development.
 
 
-Kv-languageという言語で記述することもでき、HTML, CSSライクな開発体験も提供する、非常に面白いフレームワークです。
+Kv-languageという言語で記述でき、HTML, CSSライクな開発体験も提供する、非常に面白いフレームワークです。
 
 It is a very interesting framework that can also be written in the Kv-language and provides an HTML, CSS-like development experience.
 
 
-開発当時は2020年で、Kivy用の拡張機能も2つしかなかったため、需要を獲得することができたと考えられます。
+開発当時は2020年で、Kivy用の拡張機能も2つしかなかったため、需要を獲得できたと考えられます。
 
 At the time of development, it was 2020 and there were only two extensions for Kivy, which could have captured demand.
 
@@ -124,7 +125,7 @@ At the time of development, it was 2020 and there were only two extensions for K
 
 An useful extension when you use [Deap](https://github.com/deap/deap), which is a framework for Evolutionary Algorithm.
 
-[Deap](https://github.com/deap/deap)は進化計算用のフレームワークです。Deapは柔軟な記述を可能にする反面、コーディング時に補完が効かないという問題があります。そこでこの拡張機能は、補完を有効にすることを可能にすることをコンセプトに開発を行いました。
+[Deap](https://github.com/deap/deap)は進化計算用のフレームワークです。Deapは柔軟な記述を可能にする反面、コーディング時に補完が効かないという問題があります。そこでこの拡張機能は、補完を有効にすることを可能にすることをコンセプトに開発しました。
 
 Deap is a framework for evolutionary computation. while Deap allows for flexible writing, it has the problem that completion does not work when coding. This extension was developed based on the concept of enabling completion.
 
@@ -154,4 +155,10 @@ mplcolors紹介したQiitaの記事: [「matplotlib 色 一覧」で検索する
 ![](https://github.com/Take-Me1010/kivy_graphWriter/raw/main/data/image/demo/0918-function-demo.gif)
 
 GUIフレームワークであるkivyの学習をしながら作成したアプリケーションです。
-変数代入・コメント・特殊コメントなどを実装した数式のプロットと、CSVファイルを読み込んでプロットすることができます。
+主な機能としては次のようなものです。
+- プロット
+  - 変数代入・コメント・特殊コメントなどを実装した数式のプロット
+  - CSVファイルを読み込んでプロット
+  - 様々なグラフのラベルなどの設定GUI
+- ステートの保存と復帰
+- VSCodeライクなエクスプローラー
