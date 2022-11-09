@@ -37,8 +37,8 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 ### アルバイト・インターン経験
 
 #### [スキルアップAI株式会社](https://www.skillupai.com/)
-  - 2022/5 ~ 現在も在籍
-  - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当しています。
+  - 2022/5 ~ 2022/11
+  - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当していました。
 
 #### [株式会社創造学園](https://www.sozogakuen.co.jp/)
   - 2018/12 ~ 現在も在籍
@@ -147,6 +147,12 @@ matplotlibで使うことができる色の名前をコマンドラインで表�
 プルリクは主に[implement color name search #1](https://github.com/AstroBarker/mplcolors/pull/1/commits/8ac8dbf97924c3c6bd5c84f5787ae3a47dbdf461)で、色の名前の検索機能を実装したものをプルリクし、マージされました。
 mplcolors紹介したQiitaの記事: [「matplotlib 色 一覧」で検索するのはもう止めよう](https://qiita.com/take_me/items/481e248bf56aca56b1ee)ではかなりの反響を頂きました。
 
+### [PyComArch](https://github.com/Take-Me1010/PyComArch)
+
+[![PyComArch Card](https://github-readme-stats.vercel.app/api/pin/?username=Take-Me1010&repo=PyComArch)](https://github.com/Take-Me1010/PyComArch)
+
+windowsでいい感じにzipできるCLIツールがなかったのでPythonで作ってみようと思い立って作成したものです。
+Linuxライクな引数・再帰的なzipが可能です。
 
 ### [kivy_graphWriter](https://github.com/Take-Me1010/kivy_graphWriter)
 
