@@ -40,8 +40,14 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
   - 2022/5 ~ 2022/11
   - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当していました。
 
+#### [freee株式会社](https://www.freee.co.jp/lp/brand/01/?utm_source=google&utm_medium=cpc&utm_content=3413057902_11033908479_107737753669_613506165990_kwd-316837118629&utm_campaign=01NQ_SCH_A10%28brand%29-%E6%8C%87%E5%90%8D1G&utm_term=e_%EF%BD%86%EF%BD%92%EF%BD%85%EF%BD%85%EF%BD%85&referral=aw_brand&gclid=CjwKCAjw3POhBhBQEiwAqTCuBuo-ikSSA56_DCW5Qzs4ScYrkignuN-xNvGu-5ONXYoqxrWTa6mKsBoCmF8QAvD_BwE)
+- 2022/8/22 - 2022/9/2
+- 夏の長期インターンシップにて、Ruby on RAils及びReactを3人チームで新規機能の開発を担当。
+- モブプロやペアプロを通じて、効率的に新しい概念を学ぶことができました。
+
+
 #### [株式会社創造学園](https://www.sozogakuen.co.jp/)
-  - 2018/12 ~ 現在も在籍
+  - 2018/12 ~ 2023/03/31
   - 高校個別において、講師業務を担当。教科は数学・英語・物理・化学。
 
 担任制であるため、担当生徒の個性・成績の把握、志望校へ向けた小目標の策定などがより重要なものになります。
