@@ -35,7 +35,13 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 
 #### [スキルアップAI株式会社](https://www.skillupai.com/)
   - 2022/5 ~ 2022/11
-  - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当しています。
+  - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当していました。
+
+#### [freee株式会社](https://www.freee.co.jp/lp/brand/01/?utm_source=google&utm_medium=cpc&utm_content=3413057902_11033908479_107737753669_613506165990_kwd-316837118629&utm_campaign=01NQ_SCH_A10%28brand%29-%E6%8C%87%E5%90%8D1G&utm_term=e_%EF%BD%86%EF%BD%92%EF%BD%85%EF%BD%85%EF%BD%85&referral=aw_brand&gclid=CjwKCAjw3POhBhBQEiwAqTCuBuo-ikSSA56_DCW5Qzs4ScYrkignuN-xNvGu-5ONXYoqxrWTa6mKsBoCmF8QAvD_BwE)
+- 2022/8/22 - 2022/9/2
+- 夏の長期インターンシップにて、Ruby on RAils及びReactを3人チームで新規機能の開発を担当。
+- モブプロやペアプロを通じて、効率的に新しい概念を学ぶことができました。
+
 
 #### [株式会社創造学園](https://www.sozogakuen.co.jp/)
   - 2018/12 ~ 2022/3
@@ -133,6 +139,13 @@ matplotlibで使うことができる色の名前をコマンドラインで表�
 
 プルリクは主に[implement color name search #1](https://github.com/AstroBarker/mplcolors/pull/1/commits/8ac8dbf97924c3c6bd5c84f5787ae3a47dbdf461)で、色の名前の検索機能を実装したものをプルリクし、マージされました。
 mplcolors紹介したQiitaの記事: [「matplotlib 色 一覧」で検索するのはもう止めよう](https://qiita.com/take_me/items/481e248bf56aca56b1ee)ではかなりの反響を頂きました。
+
+### [PyComArch](https://github.com/Take-Me1010/PyComArch)
+
+[![PyComArch Card](https://github-readme-stats.vercel.app/api/pin/?username=Take-Me1010&repo=PyComArch)](https://github.com/Take-Me1010/PyComArch)
+
+windowsでいい感じにzipできるCLIツールがなかったのでPythonで作ってみようと思い立って作成したものです。
+Linuxライクな引数・再帰的なzipが可能です。
 
 ### [kivy_graphWriter](https://github.com/Take-Me1010/kivy_graphWriter)
 
