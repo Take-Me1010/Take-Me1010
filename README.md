@@ -31,6 +31,13 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 | 神戸大学 工学部 電気電子工学科              | 2018年 4月 | 2022年 3月        |      |
 | 神戸大学 大学院 工学研究科 電気電子工学専攻 | 2022年 4月 | 2024年3月修了予定 |      |
 
+### 受賞
+
+[**NOLTA 2023**](https://nolta2023.org/award.html)
+
+NOLTA Best Student Paper Award
+Taketo Omi and Toshiaki Omori, ′′Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics′′
+
 ### アルバイト・インターン経験
 
 #### [スキルアップAI株式会社](https://www.skillupai.com/)
@@ -41,7 +48,6 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 - 2022/8/22 - 2022/9/2
 - 夏の長期インターンシップにて、Ruby on RAils及びReactを3人チームで新規機能の開発を担当。
 - モブプロやペアプロを通じて、効率的に新しい概念を学ぶことができました。
-
 
 #### [株式会社創造学園](https://www.sozogakuen.co.jp/)
   - 2018/12 ~ 2022/3
