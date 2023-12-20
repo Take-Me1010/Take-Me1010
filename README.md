@@ -13,7 +13,7 @@
 
 Qiita → [take_meのマイページ](https://qiita.com/take_me)
 
-次のカードが示す通りですが、Pythonを中心に、TypeScriptをよく使っています。
+Pythonを中心に、TypeScriptをよく使っています。
 <div style="text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Take-Me1010&layout=compact">
 </div>
@@ -31,12 +31,17 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 | 神戸大学 工学部 電気電子工学科              | 2018年 4月 | 2022年 3月        |      |
 | 神戸大学 大学院 工学研究科 電気電子工学専攻 | 2022年 4月 | 2024年3月修了予定 |      |
 
-### 受賞
+### 研究活動/実績
 
-[**NOLTA 2023**](https://nolta2023.org/award.html)
+#### 論文
 
-NOLTA Best Student Paper Award
-Taketo Omi and Toshiaki Omori, ′′Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics′′
+- Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, IEICE proceeding, 2023
+
+#### 口頭発表
+
+- NOLTA23: ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″
+    - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)
+
 
 ### アルバイト・インターン経験
 
