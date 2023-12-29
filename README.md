@@ -28,20 +28,19 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 | 所属                                        | 入学       | 卒業              | 備考 |
 | ------------------------------------------- | ---------- | ----------------- | ---- |
 | 兵庫県立星陵高等学校                        | 2015年 4月 | 2018年 3月        |      |
-| 神戸大学 工学部 電気電子工学科              | 2018年 4月 | 2022年 3月        |      |
-| 神戸大学 大学院 工学研究科 電気電子工学専攻 | 2022年 4月 | 2024年3月修了予定 |      |
+| 神戸大学 工学部 電気電子工学科              | 2018年 4月 | 2022年 3月        |     |
+| 神戸大学 大学院 工学研究科 電気電子工学専攻 | 2022年 4月 | 2024年3月修了予定 | 学位: 修士(工学)     |
 
 ### 研究活動/実績
 
-#### 論文
+#### 論文 (Proceedings)
 
 - Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, IEICE proceeding, 2023
 
-#### 口頭発表
+#### 受賞
 
-- NOLTA23: ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″
-    - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)
-
+- [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)
+    - NOLTA23: ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″
 
 ### アルバイト・インターン経験
 
