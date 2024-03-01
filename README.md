@@ -33,14 +33,16 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 
 ### 研究活動/実績
 
+#### 論文 (国際雑誌掲載)
+
+- Taketo Omi and Toshiaki Omori, ''Simultaneously estimating and controlling nonlinear neuronal dynamics based on sequential Monte Carlo framework,'' _Nonlinear Theory and Its Applications, IEICE_, 2023
+
 #### 論文 (Proceedings)
 
-- Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, IEICE proceeding, 2023
+- Taketo Omi and Toshiaki Omori, ''Simultaneously Estimating and Controlling Neuronal Nonlinear Dynamics Based on Statistical Machine Learning Approach,'' _proceedings of the joint symposium of the twenty-eighth international symposium on artificial life and robotics (AROB 28th 2023)_, 2023
+- Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, _IEICE proceeding_, 2023
+    - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)　受賞
 
-#### 受賞
-
-- [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)
-    - NOLTA23: ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″
 
 ### アルバイト・インターン経験
 
