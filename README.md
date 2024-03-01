@@ -43,6 +43,7 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 - Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, _IEICE proceeding_, 2023
     - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html)　受賞
 
+その他、国内会議での発表1件及び国際学会での発表5件あり。
 
 ### アルバイト・インターン経験
 
