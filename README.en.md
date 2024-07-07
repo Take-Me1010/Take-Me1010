@@ -19,15 +19,28 @@ I use Python mostly and TypeScript often as the following card shows.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Take-Me1010&layout=compact">
 </div>
 
-## 履歴
+## Background
 
-### 学歴
+### Academic background
 
-| 所属                                        | 入学       | 卒業              | 備考 |
-| ------------------------------------------- | ---------- | ----------------- | ---- |
-| 兵庫県立 星陵高等学校                        | 2015-4 | 2018-3        |      |
-| 神戸大学 工学部 電気電子工学科              | 2018-4 | 2022-3        |      |
-| 神戸大学 大学院 工学研究科 電気電子工学専攻 | 2022-4 | 2024-3 |      |
+| school                                                              | admission | graduation |                        |
+| ------------------------------------------------------------------- | --------- | ---------- | ---------------------- |
+| Kobe University Department of Electrical and Electronic Engineering | 2018-4    | 2022-3     | bachelor (engineering) |
+| Kobe University Department of Electrical and Electronic Engineering | 2022-4    | 2024-3     | master (engineering)   |
+
+### Research
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=GrHmkJgAAAAJ)
+
+#### Paper
+
+- Taketo Omi and Toshiaki Omori, ''Simultaneously estimating and controlling nonlinear neuronal dynamics based on sequential Monte Carlo framework,'' _Nonlinear Theory and Its Applications, IEICE_, 2023
+
+#### Proceedings
+
+- Taketo Omi and Toshiaki Omori, ''Simultaneously Estimating and Controlling Neuronal Nonlinear Dynamics Based on Statistical Machine Learning Approach,'' _proceedings of the joint symposium of the twenty-eighth international symposium on artificial life and robotics (AROB 28th 2023)_, 2023
+- Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, _IEICE proceeding_, 2023
+    - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html) received
 
 ### アルバイト・インターン経験
 
@@ -43,13 +56,6 @@ I use Python mostly and TypeScript often as the following card shows.
 - [スキルアップAI株式会社](https://www.skillupai.com/)
   - 2022/5 ~ 2022/11
   - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当しています。
-
-## 資格
-
-| 資格                                  | 取得日     |
-| ------------------------------------- | ---------- |
-| TOEIC 830点                           | 2021/02/28 |
-| ICTプロフィシエンシー検定試験　準２級 | 2017/11    |
 
 ## VSCode extensions I have been developing
 

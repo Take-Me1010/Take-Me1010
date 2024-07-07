@@ -33,6 +33,8 @@ Pythonは3系のみで、最初の半年-1年は[Pythonista 3](http://omz-softwa
 
 ### 研究活動/実績
 
+[Google Scholar](https://scholar.google.co.jp/citations?user=GrHmkJgAAAAJ)
+
 #### 論文 (国際雑誌掲載)
 
 - Taketo Omi and Toshiaki Omori, ''Simultaneously estimating and controlling nonlinear neuronal dynamics based on sequential Monte Carlo framework,'' _Nonlinear Theory and Its Applications, IEICE_, 2023
