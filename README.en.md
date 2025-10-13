@@ -8,7 +8,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Take-Me1010&count_private=true&theme=tokyonight">
 </div>
 
-My graduate research focuses on estimation of neural systems based on statistical machine learning.
+I belong to freee K.K. as a web application engineer.
+My graduate research focused on estimation of neural systems based on statistical machine learning.
 
 My hobbies are mainly VSCode extension development and writing articles on Qiita.
 
@@ -19,16 +20,17 @@ I use Python mostly and TypeScript often as the following card shows.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Take-Me1010&layout=compact">
 </div>
 
+I also use Ruby on Rails, React, and terraform (AWS) in my work.
+
 ## Background
 
-### Academic background
+| organization                                                        | stint           |                        |
+| ------------------------------------------------------------------- | --------------- | ---------------------- |
+| Kobe University Department of Electrical and Electronic Engineering | 2018-4 ~ 2022-3 | bachelor (engineering) |
+| Kobe University Department of Electrical and Electronic Engineering | 2022-4 ~ 2024-3 | master (engineering)   |
+| freee K.K.                                                          | 2024-4 ~        | fullstack-engineer     |
 
-| school                                                              | admission | graduation |                        |
-| ------------------------------------------------------------------- | --------- | ---------- | ---------------------- |
-| Kobe University Department of Electrical and Electronic Engineering | 2018-4    | 2022-3     | bachelor (engineering) |
-| Kobe University Department of Electrical and Electronic Engineering | 2022-4    | 2024-3     | master (engineering)   |
-
-### Research
+### Research Activity
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=GrHmkJgAAAAJ)
 
@@ -41,21 +43,6 @@ I use Python mostly and TypeScript often as the following card shows.
 - Taketo Omi and Toshiaki Omori, ''Simultaneously Estimating and Controlling Neuronal Nonlinear Dynamics Based on Statistical Machine Learning Approach,'' _proceedings of the joint symposium of the twenty-eighth international symposium on artificial life and robotics (AROB 28th 2023)_, 2023
 - Taketo Omi and Toshiaki Omori, ″Sequential Monte Carlo Framework for Simultaneously Estimating and Controlling Nonlinear Neuronal Dynamics″, _IEICE proceeding_, 2023
     - [**NOLTA Best Student Paper Award**](https://nolta2023.org/award.html) received
-
-### アルバイト・インターン経験
-
-- [学伸ゼミ](https://gakushinzemi.com/)
-  - 2018/4 ~ (Still working)
-  - 高校個別・中学個別・中学集団授業において、講師業務を担当。教科は数学・英語を中心に化学や物理などを生徒に応じて対応。
-  - 幅広い学年の生徒との交流を通じて、学年の雰囲気や個性に合わせた指導方法を研究・追求。目標に合わせた指導方法の検討などから、計画的な物事の進め方を学びました。
-- [株式会社創造学園](https://www.sozogakuen.co.jp/)
-  - 2018/12 ~ 2022/3
-  - 高校個別において、講師業務を担当。教科は数学・英語・物理・化学。
-    - 担任制であるため、担当生徒の個性・成績の把握、志望校へ向けた小目標の策定などがより重要なものになります。
-    - 授業においても当日の体調など次第で、どのような説明をすれば理解してもらえるかなどをリアルタイムに検討しながら進めるといった技術が求められました。いくつかの書籍を参考にして、わかりやすい説明の仕方を自分も学びながら授業を改善し続けました。その結果、生徒が第一志望に合格でき、その時の喜びは何にも代えがたいものでした。
-- [スキルアップAI株式会社](https://www.skillupai.com/)
-  - 2022/5 ~ 2022/11
-  - 講座の運営といったことから、統計的機械学習の知見を活かしたベイズ推定の教材作成を担当しています。
 
 ## VSCode extensions I have been developing
 
