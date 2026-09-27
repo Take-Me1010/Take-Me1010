@@ -30,6 +30,18 @@ I also use Ruby on Rails, React, and terraform (AWS) in my work.
 | Kobe University Department of Electrical and Electronic Engineering | 2022-4 ~ 2024-3 | master (engineering)   |
 | freee K.K.                                                          | 2024-4 ~        | fullstack-engineer     |
 
+### Work Experience
+
+#### freee K.K.
+
+
+| 期間 | 業務内容 | 技術スタック |
+| - | - | - |
+| 2024/04 ~ 2024/06 | induction course for new graduates. its detail was written in the following articles: [freeeの2024年新卒研修の事例 - 社内むけショート動画プラットフォームの開発](https://developers.freee.co.jp/entry/new-grads-traning-2024-shorts) and [新卒研修で作ったプロダクトを本番で運用している話](https://developers.freee.co.jp/entry/new-grads-traning-2024-shorts-2) | Golang, TypeScript (React), Terraform (AWS) |
+| 2024/07 ~ 2025/12 | I worked as an engineer in the department responsible for alliance projects. For collaborative projects with partner companies, I presented multiple proposals that took into account man-hours as well as the pros and cons, thereby supporting the project manager’s decision-making. On several projects, I attended meetings with partner companies alongside the project manager and was responsible for technical negotiations with clients. | Ruby on Rails, TypeScript (React), Terraform (AWS)|
+| 2025/01 ~ 2026/06 | I worked as a lead engineer on a six-person team that included members based overseas. I focused on improving the user experience (UX) and accuracy for a service that provides OCR functionality. While facilitating communication between engineers at overseas offices and project managers and designers in Japan, I also contributed to the service's design and implementation in the role of Tech Lead. I shared my knowledge of AWS and Python with international team members to raise the overall technical proficiency of the team. Additionally, I collaborated with multiple teams—in addition to my own—on OCR accuracy and succeeded in tripling customer satisfaction within six months. | Ruby on Rails, TypeScript (React), Golang, Python, Terraform (AWS) |
+| 2026/07 ~ | I work as the engineer manager of the same team. I have been experimenting with ways to reduce communication gaps between English and Japanese, as well as with AI-driven Scrum development. To empower team members to take the lead on projects and ensure development can proceed smoothly even in my absence, I am constantly devising systems to identify and resolve any vulnerabilities. | Ruby on Rails, TypeScript (React), Golang, Python, Terraform (AWS) |
+
 ### Research Activity
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=GrHmkJgAAAAJ)
